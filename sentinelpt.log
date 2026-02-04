@@ -1,0 +1,17 @@
+2026-02-04 22:20:13,059 | INFO | Executing module recon.port_scan on 127.0.0.1
+2026-02-04 22:30:11,021 | INFO | Executing module recon.port_scan on 127.0.0.1
+2026-02-04 22:30:11,275 | INFO | Completed module recon.port_scan
+2026-02-04 22:30:11,275 | INFO | Executing module recon.service_enum on 127.0.0.1
+2026-02-04 22:30:11,277 | INFO | Completed module recon.service_enum
+2026-02-04 22:30:11,278 | INFO | Executing module audit.password_policy on 127.0.0.1
+2026-02-04 22:30:11,279 | INFO | Completed module audit.password_policy
+2026-02-04 22:30:11,280 | INFO | Executing module audit.tls_check on 127.0.0.1
+2026-02-04 22:30:11,280 | INFO | Completed module audit.tls_check
+2026-02-04 22:30:41,821 | INFO | Executing module recon.port_scan on 127.0.0.1
+2026-02-04 22:30:41,981 | INFO | Completed module recon.port_scan
+2026-02-04 22:30:41,981 | INFO | Executing module recon.service_enum on 127.0.0.1
+2026-02-04 22:30:41,982 | INFO | Completed module recon.service_enum
+2026-02-04 22:30:41,982 | INFO | Executing module audit.password_policy on 127.0.0.1
+2026-02-04 22:30:41,982 | INFO | Completed module audit.password_policy
+2026-02-04 22:30:41,983 | INFO | Executing module audit.tls_check on 127.0.0.1
+2026-02-04 22:30:41,983 | INFO | Completed module audit.tls_check

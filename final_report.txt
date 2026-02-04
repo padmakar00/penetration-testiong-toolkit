@@ -1,0 +1,16 @@
+=== Penetration Testing Report ===
+
+Overall Risk Score: 70/100
+
+[recon.port_scan]
+{'127.0.0.1': []}
+
+[recon.service_enum]
+{'http': 'Apache / Nginx detected (manual verification needed)', 'ssh': 'OpenSSH detected – check version'}
+
+[audit.password_policy]
+{'authentication': 'Password-based login enabled', 'mfa': 'MFA not detected', 'lockout_policy': 'Account lockout policy not observed'}
+
+[audit.tls_check]
+{'tls_versions': ['TLS 1.0', 'TLS 1.2'], 'risk': 'Deprecated TLS versions enabled'}
+
