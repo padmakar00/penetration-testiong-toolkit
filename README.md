@@ -154,3 +154,7 @@ Conclusion
 
 SentinelPT is a practical, industry-aligned penetration testing toolkit that demonstrates how security assessments should be conducted responsibly. By focusing on modular design, authorization, logging, and reporting, the project reflects real-world penetration testing workflows rather than unsafe hacking practices. This project not only strengthens technical skills but also builds an understanding of professional ethics and security assessment methodologies, making it a valuable learning and portfolio asset for aspiring cybersecurity professionals.
 
+
+
+OUTPUT 
+<img width="1536" height="739" alt="Image" src="https://github.com/user-attachments/assets/02b8f862-70b7-4e47-a621-7060c873b577" />
