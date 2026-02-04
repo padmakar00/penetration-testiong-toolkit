@@ -1,6 +1,10 @@
+INTERN ID: CTIS1717
 
+DOMAIN: CYBER SECURITY & ETHICAL HACKING
 
+DURATION: 6 WEEKS
 
+MENTOR: NEELA SANTOSH
 
 Project Description
 SentinelPT: Penetration Testing Toolkit
@@ -149,3 +153,4 @@ Adding automated compliance checks (ISO, NIST)
 Conclusion
 
 SentinelPT is a practical, industry-aligned penetration testing toolkit that demonstrates how security assessments should be conducted responsibly. By focusing on modular design, authorization, logging, and reporting, the project reflects real-world penetration testing workflows rather than unsafe hacking practices. This project not only strengthens technical skills but also builds an understanding of professional ethics and security assessment methodologies, making it a valuable learning and portfolio asset for aspiring cybersecurity professionals.
+
